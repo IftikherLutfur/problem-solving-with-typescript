@@ -5,7 +5,7 @@ On the other hand, Type is a way to define a custom data type.
 With an interface, we can specify exactly which properties an object must have and what types those properties should be.
 With type, we use type aliases to define various types such as objects, primitives, unions, tuples, etc.
 
-🔸 Basic Differences Between Interface and Type:
+## Basic Differences Between Interface and Type:
 Intention:
 Interface is mainly used for defining the structure of an object.
 Type is used to define any kind of data type (e.g., object, string, number, union, etc.).
